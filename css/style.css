@@ -1,0 +1,51 @@
+.navbar {
+  background-color: #081c15;
+  color: #dccde8;
+}
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+  color: #dccde8;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url(../img/image1.jpg);
+  background-size: cover;
+  /* opacity: 0.85; */
+}
+.carousel-image-2 {
+  background: url(../img/image2.jpg);
+  background-size: cover;
+  /* opacity: 0.85; */
+}
+.carousel-image-3 {
+  background: url(../img/image3.jpg);
+  background-size: cover;
+  /* opacity: 0.85; */
+}
+
+.btn {
+  color: #eee2df;
+  background-color: #773344;
+  border: black 2px solid;
+}
+
+.carousel-item h1 {
+  color: #d35269;
+  font-weight: 600;
+}
+
+.carousel-item p {
+  color: #eec0c6;
+  font-size: 22px;
+}
