@@ -1,4 +1,5 @@
 body {
+  overflow-x: hidden;
   background: #3e5151; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to bottom,
