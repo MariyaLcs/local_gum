@@ -54,7 +54,9 @@ body {
 }
 
 .carousel-item h1,
-#home-heading h1 {
+#home-heading h1,
+#video-play h1,
+#newsletter h1 {
   color: #d35269;
   font-weight: 600;
 }
